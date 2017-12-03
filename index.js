@@ -24,3 +24,4 @@ var funkyFunction = function() {
 }
 
 funkyFunction;
+function; 
